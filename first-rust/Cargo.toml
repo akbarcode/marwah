@@ -1,0 +1,6 @@
+[package]
+name = "first-rust"
+version = "0.1.0"
+authors = ["Akbar Ali Masood Mohamed Kassim (NCS/SG/ENG/PSG) <akbar1m@NTTSPMAC29.local>"]
+
+[dependencies]
